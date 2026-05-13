@@ -1,5 +1,0 @@
-            - name: Semgrep x semgrep-rules-manager
-  # You may pin to the exact commit or the version.
-  # uses: iosifache/semgrep-rules-manager@a0faaf306a4b5bf2fcb9d0b2dafedb1fc77384a7
-  uses: iosifache/semgrep-rules-manager@release
-          
