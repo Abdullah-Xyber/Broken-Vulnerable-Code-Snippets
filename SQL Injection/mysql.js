@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
   password : config.MYSQL_PASSWORD,
   database : config.MYSQL_DB_NAME,
 });
- 
+//
 connection.connect();
 
 router.get('/example1/user/:id', (req,res) => {
